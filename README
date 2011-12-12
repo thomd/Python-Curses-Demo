@@ -1,0 +1,15 @@
+This is just a simple demo that I put together in effort to learn how to build a curses based app.
+
+Running:
+  python curses_demo.py
+
+
+That should bring up a window that has "This is a test" centered in it.
+
+You should be able to resize the window, and use the arrow keys to move the text around the window.
+
+BEWARE:
+  By default, if your cursor moves outside of the screen boundaries the program will terminate.
+
+License: 
+  No license. I hope someone can learn from this.
